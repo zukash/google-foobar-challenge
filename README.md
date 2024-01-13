@@ -20,9 +20,11 @@
 ### LEVEL 4
 
 * Free the Bunny Workers
+* Distract the Trainers
 
 ### LEVEL 5
 
 ## 招待リンク
 
 * <https://foobar.withgoogle.com/?eid=uGUoA>
+* <https://foobar.withgoogle.com/?eid=VQaBU>
