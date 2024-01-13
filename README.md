@@ -19,6 +19,8 @@
 
 ### LEVEL 4
 
+* Free the Bunny Workers
+
 ### LEVEL 5
 
 ## 招待リンク
